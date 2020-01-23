@@ -1,0 +1,7 @@
+---
+output: html_document
+---
+
+1. Sona Hunanyan and Malgorzata Roos and Havard Rue (2018). Prior sensitivity quantification: To scale, or not to scale, that is the question. Nordstat 2018, Tartu, Estonia, poster presentation.
+
+2. Sona Hunanyan and Malgorzata Roos (2019). Complete separation in data in the context of antimicrobial susceptibility breakpoints derivation. DAGStat 2019, Munich, Germany, poster presentation.

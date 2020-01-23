@@ -1,0 +1,5 @@
+---
+output: html_document
+---
+
+1.   Hunanyan, S., Roos, M. (2019). si4bayesmeta:Sensitivity and Identification for the Bayesian Meta-Analysis. R package version 0.1.1. 

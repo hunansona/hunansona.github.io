@@ -1,0 +1,6 @@
+---
+output: html_document
+---
+
+1. Course instructor, "A training course in R" for the department of Risk Management and Safety in Nuclear Power plant, Goesgen, 2017.
+2. Teaching asistant," Bayesian Data Analysis with R", University of Zurich, 2018.

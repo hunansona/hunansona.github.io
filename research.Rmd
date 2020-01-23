@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+
+1. Ott, M. and Hunanyan, S. and Held, L. and Roos, M. (2019). The relative latent model complexity adjustment for heterogeneity prior specification in {B}ayesian meta-analysis. Research Synthesis Methods (under revision).
+
+2. Roos, M. and Hunanyan, S. and Held, L.(2018). Technical report for {DAGStat2019}: {C}lassification of tail-adjusted heterogeneity priors in the {B}ayesian meta-analysis estimated by \texttt{bayesmeta}.  
+
+3. Roos, M. and Hunanyan, S. and Bakka, H. and Rue, H. (2020). Sensitivity and identification quantification by a relative latent model complexity perturbation in the {B}ayesian meta-analysis (in preperation). 

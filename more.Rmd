@@ -1,0 +1,7 @@
+---
+output: html_document
+---
+
+1. Family: a happy mom of 2 miracles.
+2. Yoga, pilates.
+3. Cooking.
